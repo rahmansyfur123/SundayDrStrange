@@ -18,4 +18,5 @@ return SingletonObj;
 protected static void demo(){
 	System.out.println("Demo method for singletone class!!!");
 }
+//this change to check on git devsayf
 }
